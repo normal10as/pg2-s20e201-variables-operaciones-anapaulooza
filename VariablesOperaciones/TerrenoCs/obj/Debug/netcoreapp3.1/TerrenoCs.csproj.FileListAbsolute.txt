@@ -1,0 +1,13 @@
+C:\Users\Ana Paula\source\repos\Normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\obj\Debug\netcoreapp3.1\TerrenoCs.csprojAssemblyReference.cache
+C:\Users\Ana Paula\source\repos\Normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\obj\Debug\netcoreapp3.1\TerrenoCs.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\source\repos\Normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\obj\Debug\netcoreapp3.1\TerrenoCs.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\source\repos\Normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\obj\Debug\netcoreapp3.1\TerrenoCs.AssemblyInfo.cs
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\bin\Debug\netcoreapp3.1\TerrenoCs.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\bin\Debug\netcoreapp3.1\TerrenoCs.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\bin\Debug\netcoreapp3.1\TerrenoCs.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\bin\Debug\netcoreapp3.1\TerrenoCs.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\bin\Debug\netcoreapp3.1\TerrenoCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\bin\Debug\netcoreapp3.1\TerrenoCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\obj\Debug\netcoreapp3.1\TerrenoCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\obj\Debug\netcoreapp3.1\TerrenoCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\TerrenoCs\obj\Debug\netcoreapp3.1\TerrenoCs.genruntimeconfig.cache

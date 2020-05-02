@@ -1,0 +1,12 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\obj\Debug\netcoreapp3.1\FacturacionVb.vbproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\obj\Debug\netcoreapp3.1\FacturacionVb.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\obj\Debug\netcoreapp3.1\FacturacionVb.AssemblyInfo.vb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\bin\Debug\netcoreapp3.1\FacturacionVb.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\bin\Debug\netcoreapp3.1\FacturacionVb.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\bin\Debug\netcoreapp3.1\FacturacionVb.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\bin\Debug\netcoreapp3.1\FacturacionVb.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\bin\Debug\netcoreapp3.1\FacturacionVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\bin\Debug\netcoreapp3.1\FacturacionVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\obj\Debug\netcoreapp3.1\FacturacionVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\obj\Debug\netcoreapp3.1\FacturacionVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\FacturacionVb\obj\Debug\netcoreapp3.1\FacturacionVb.genruntimeconfig.cache

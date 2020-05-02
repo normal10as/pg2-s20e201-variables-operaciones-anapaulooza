@@ -1,0 +1,13 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\bin\Debug\netcoreapp3.1\AreaCirculo.Cs.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\bin\Debug\netcoreapp3.1\AreaCirculo.Cs.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\bin\Debug\netcoreapp3.1\AreaCirculo.Cs.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\bin\Debug\netcoreapp3.1\AreaCirculo.Cs.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\bin\Debug\netcoreapp3.1\AreaCirculo.Cs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\bin\Debug\netcoreapp3.1\AreaCirculo.Cs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\obj\Debug\netcoreapp3.1\AreaCirculo.Cs.csprojAssemblyReference.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\obj\Debug\netcoreapp3.1\AreaCirculo.Cs.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\obj\Debug\netcoreapp3.1\AreaCirculo.Cs.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\obj\Debug\netcoreapp3.1\AreaCirculo.Cs.AssemblyInfo.cs
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\obj\Debug\netcoreapp3.1\AreaCirculo.Cs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\obj\Debug\netcoreapp3.1\AreaCirculo.Cs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\AreaCirculo.Cs\obj\Debug\netcoreapp3.1\AreaCirculo.Cs.genruntimeconfig.cache
