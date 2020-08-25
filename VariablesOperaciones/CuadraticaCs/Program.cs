@@ -9,9 +9,9 @@ namespace CuadraticaCs
             int a, b, c;
             double d;
             Single res;
-            a = 1;
-            b = 5;
-            c = 2;
+            const a = 1;
+            const b = 5;
+            const c = 2;
             d = Math.Pow(b, 2);
             Console.WriteLine("La b es igual a " + d);
 
