@@ -5,9 +5,9 @@ Module Program
         Dim a, b, c As UInt16
         Dim d As Double
         Dim res As Single
-        a = 1
-        b = 5
-        c = 2
+        const a = 1
+        const b = 5
+        const c = 2
         d = b ^ 2
         Console.WriteLine("La b es igual a " & d)
 
