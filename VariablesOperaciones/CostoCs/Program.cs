@@ -15,8 +15,8 @@ namespace CostoCs
             desc = Console.ReadLine();
             Console.WriteLine("Ingrese Numero de Unidades Producidas ");
             unid = Convert.ToInt32( Console.ReadLine());
-            cf = 10700;
-            factor = 3.5;
+            const cf = 10700;
+            const factor = 3.5;
             costo = Convert.ToDecimal((unid * factor) + cf);
             Console.WriteLine("El articulo "+desc+", cuyas unidades producidas son "+unid+", tiene: ");
             Console.WriteLine("► Costo Fijo de "+cf);
