@@ -1,0 +1,13 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\bin\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.csprojAssemblyReference.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.AssemblyInfo.cs
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VelocidadDeLaLuzCs\obj\Debug\netcoreapp3.1\VelocidadDeLaLuzCs.genruntimeconfig.cache

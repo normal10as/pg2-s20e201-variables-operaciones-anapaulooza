@@ -1,0 +1,12 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\bin\Debug\netcoreapp3.1\CostoCs.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\bin\Debug\netcoreapp3.1\CostoCs.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\bin\Debug\netcoreapp3.1\CostoCs.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\bin\Debug\netcoreapp3.1\CostoCs.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\bin\Debug\netcoreapp3.1\CostoCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\bin\Debug\netcoreapp3.1\CostoCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\obj\Debug\netcoreapp3.1\CostoCs.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\obj\Debug\netcoreapp3.1\CostoCs.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\obj\Debug\netcoreapp3.1\CostoCs.AssemblyInfo.cs
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\obj\Debug\netcoreapp3.1\CostoCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\obj\Debug\netcoreapp3.1\CostoCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CostoCs\obj\Debug\netcoreapp3.1\CostoCs.genruntimeconfig.cache

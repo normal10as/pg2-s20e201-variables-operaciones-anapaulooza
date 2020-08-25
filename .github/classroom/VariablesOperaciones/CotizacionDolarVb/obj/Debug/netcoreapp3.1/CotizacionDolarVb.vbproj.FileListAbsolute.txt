@@ -1,0 +1,13 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\bin\Debug\netcoreapp3.1\CotizacionDolarVb.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\bin\Debug\netcoreapp3.1\CotizacionDolarVb.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\bin\Debug\netcoreapp3.1\CotizacionDolarVb.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\bin\Debug\netcoreapp3.1\CotizacionDolarVb.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\bin\Debug\netcoreapp3.1\CotizacionDolarVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\bin\Debug\netcoreapp3.1\CotizacionDolarVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\obj\Debug\netcoreapp3.1\CotizacionDolarVb.vbprojAssemblyReference.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\obj\Debug\netcoreapp3.1\CotizacionDolarVb.vbproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\obj\Debug\netcoreapp3.1\CotizacionDolarVb.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\obj\Debug\netcoreapp3.1\CotizacionDolarVb.AssemblyInfo.vb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\obj\Debug\netcoreapp3.1\CotizacionDolarVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\obj\Debug\netcoreapp3.1\CotizacionDolarVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CotizacionDolarVb\obj\Debug\netcoreapp3.1\CotizacionDolarVb.genruntimeconfig.cache

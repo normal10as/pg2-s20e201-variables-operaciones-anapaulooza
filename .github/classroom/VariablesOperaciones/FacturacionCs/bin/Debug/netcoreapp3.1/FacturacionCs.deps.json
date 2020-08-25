@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FacturacionCs/1.0.0": {
+        "runtime": {
+          "FacturacionCs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FacturacionCs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

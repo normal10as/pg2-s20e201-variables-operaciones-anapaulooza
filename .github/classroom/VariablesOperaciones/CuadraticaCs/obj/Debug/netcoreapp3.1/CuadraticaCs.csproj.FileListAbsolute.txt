@@ -1,0 +1,12 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\bin\Debug\netcoreapp3.1\CuadraticaCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.AssemblyInfo.cs
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaCs\obj\Debug\netcoreapp3.1\CuadraticaCs.genruntimeconfig.cache

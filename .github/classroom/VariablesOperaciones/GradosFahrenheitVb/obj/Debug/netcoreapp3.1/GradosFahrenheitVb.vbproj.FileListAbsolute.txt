@@ -1,0 +1,13 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\bin\Debug\netcoreapp3.1\GradosFahrenheitVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.vbproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.AssemblyInfo.vb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.genruntimeconfig.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\GradosFahrenheitVb\obj\Debug\netcoreapp3.1\GradosFahrenheitVb.vbprojAssemblyReference.cache

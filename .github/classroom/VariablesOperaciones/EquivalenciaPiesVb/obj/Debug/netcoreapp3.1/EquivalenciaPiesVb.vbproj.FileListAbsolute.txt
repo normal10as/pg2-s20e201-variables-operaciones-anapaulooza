@@ -1,0 +1,12 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\bin\Debug\netcoreapp3.1\EquivalenciaPiesVb.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\bin\Debug\netcoreapp3.1\EquivalenciaPiesVb.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\bin\Debug\netcoreapp3.1\EquivalenciaPiesVb.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\bin\Debug\netcoreapp3.1\EquivalenciaPiesVb.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\bin\Debug\netcoreapp3.1\EquivalenciaPiesVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\bin\Debug\netcoreapp3.1\EquivalenciaPiesVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\obj\Debug\netcoreapp3.1\EquivalenciaPiesVb.vbproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\obj\Debug\netcoreapp3.1\EquivalenciaPiesVb.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\obj\Debug\netcoreapp3.1\EquivalenciaPiesVb.AssemblyInfo.vb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\obj\Debug\netcoreapp3.1\EquivalenciaPiesVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\obj\Debug\netcoreapp3.1\EquivalenciaPiesVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciaPiesVb\obj\Debug\netcoreapp3.1\EquivalenciaPiesVb.genruntimeconfig.cache

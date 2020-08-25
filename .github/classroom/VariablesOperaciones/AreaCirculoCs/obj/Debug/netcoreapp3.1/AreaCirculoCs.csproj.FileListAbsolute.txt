@@ -1,0 +1,13 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\obj\Debug\netcoreapp3.1\AreaCirculoCs.csprojAssemblyReference.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\obj\Debug\netcoreapp3.1\AreaCirculoCs.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\obj\Debug\netcoreapp3.1\AreaCirculoCs.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\obj\Debug\netcoreapp3.1\AreaCirculoCs.AssemblyInfo.cs
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\bin\Debug\netcoreapp3.1\AreaCirculoCs.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\bin\Debug\netcoreapp3.1\AreaCirculoCs.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\bin\Debug\netcoreapp3.1\AreaCirculoCs.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\bin\Debug\netcoreapp3.1\AreaCirculoCs.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\bin\Debug\netcoreapp3.1\AreaCirculoCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\bin\Debug\netcoreapp3.1\AreaCirculoCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\obj\Debug\netcoreapp3.1\AreaCirculoCs.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\obj\Debug\netcoreapp3.1\AreaCirculoCs.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\VariablesOperaciones\obj\Debug\netcoreapp3.1\AreaCirculoCs.genruntimeconfig.cache

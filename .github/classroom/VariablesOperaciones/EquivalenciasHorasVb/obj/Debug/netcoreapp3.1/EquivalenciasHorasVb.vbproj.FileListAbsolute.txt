@@ -1,0 +1,13 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\EquivalenciasHorasVb.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\EquivalenciasHorasVb.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\EquivalenciasHorasVb.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\EquivalenciasHorasVb.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\EquivalenciasHorasVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\bin\Debug\netcoreapp3.1\EquivalenciasHorasVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\EquivalenciasHorasVb.vbprojAssemblyReference.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\EquivalenciasHorasVb.vbproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\EquivalenciasHorasVb.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\EquivalenciasHorasVb.AssemblyInfo.vb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\EquivalenciasHorasVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\EquivalenciasHorasVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\EquivalenciasHorasVb\obj\Debug\netcoreapp3.1\EquivalenciasHorasVb.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.exe
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.deps.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.runtimeconfig.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.runtimeconfig.dev.json
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\bin\Debug\netcoreapp3.1\CuadraticaVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.vbproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.AssemblyInfo.vb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.dll
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.pdb
+C:\Users\Ana Paula\Source\Repos\normal10as\pg2-s20e201-variables-operaciones-anapaulooza\VariablesOperaciones\CuadraticaVb\obj\Debug\netcoreapp3.1\CuadraticaVb.genruntimeconfig.cache
