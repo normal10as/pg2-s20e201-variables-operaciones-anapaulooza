@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\VariablesOperaciones"
+    "\\.github",
+    "\\.github\\classroom",
+    "\\.github\\classroom\\VariablesOperaciones",
+    "\\.github\\classroom\\VariablesOperaciones\\AreaCirculo.Cs"
   ],
-  "SelectedNode": "\\VariablesOperaciones\\VariablesOperaciones.sln",
+  "SelectedNode": "\\.github\\classroom\\VariablesOperaciones\\AreaCirculo.Cs",
   "PreviewInSolutionExplorer": false
 }
